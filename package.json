@@ -35,6 +35,11 @@
         "label": "Dark Future Julia Vibrant",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-future-julia-vibrant-color-theme.json"
+      },
+      {
+        "label": "Dark Future Scarlet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-scarlet-color-theme.json"
       }
     ]
   }

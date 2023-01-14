@@ -25,6 +25,16 @@
         "label": "Dark Future Cyberpunk",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-future-cyberpunk-color-theme.json"
+      },
+      {
+        "label": "Dark Future Julia Classic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-julia-classic-color-theme.json"
+      },
+      {
+        "label": "Dark Future Julia Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-julia-vibrant-color-theme.json"
       }
     ]
   }

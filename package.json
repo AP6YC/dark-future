@@ -19,7 +19,7 @@
       {
         "label": "Dark Future",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Future-color-theme.json"
+        "path": "./themes/dark-future-color-theme.json"
       }
     ]
   }

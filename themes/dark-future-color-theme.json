@@ -1,5 +1,9 @@
 {
 	"name": "Dark Future",
+	"$schema": "vscode://schemas/color-theme",
+	"author": "Sasha Petrenko",
+    "maintainers": ["Sasha Petrenko <sap625@mst.edu>"],
+    "semanticClass": "theme.darkfuture",
 	"colors": {
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",

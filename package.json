@@ -20,6 +20,11 @@
         "label": "Dark Future",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-future-color-theme.json"
+      },
+      {
+        "label": "Dark Future Cyberpunk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-cyberpunk-color-theme.json"
       }
     ]
   }

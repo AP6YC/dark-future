@@ -1,6 +1,6 @@
 {
     "name": "Dark Future Julia Vibrant",
-	"$schema": "vscode://schemas/color-theme",
+	// "$schema": "vscode://schemas/color-theme",
 	"author": "Sasha Petrenko",
     "maintainers": ["Sasha Petrenko <sap625@mst.edu>"],
     "semanticClass": "theme.darkfuturejuliavibrant",

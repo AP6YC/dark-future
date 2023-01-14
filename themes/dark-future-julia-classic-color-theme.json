@@ -6,7 +6,7 @@
 //   #f8f8f2 (editor foreground)
 {
     "name": "Dark Future Julia Classic",
-	"$schema": "vscode://schemas/color-theme",
+	// "$schema": "vscode://schemas/color-theme",
 	"author": "Sasha Petrenko",
     "maintainers": ["Sasha Petrenko <sap625@mst.edu>"],
     "semanticClass": "theme.darkfuturejuliaclassic",
@@ -58,7 +58,7 @@
         "statusBarItem.remoteBackground": "#AC6218",
         "activityBar.background": "#272822",
         "activityBar.foreground": "#f8f8f2",
-        "activityBar.dropBackground": "#414339",
+        // "activityBar.dropBackground": "#414339",
         "sideBar.background": "#1e1f1c",
         "sideBarSectionHeader.background": "#272822",
         "menu.background": "#1e1f1c",

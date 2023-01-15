@@ -16,7 +16,9 @@ Special attention is given to these themes' ability to highlight Julia and Pytho
 - **Dark Future Scarlet**: a modification of the beta SCARLET protocol of the great [Cyberpunk](https://github.com/prometheux-ar/cyberpunk) theme package.
 - **Dark Future Neon**: a modification of the [Neon Shimmer](https://github.com/Pipe-Runner-Lab/neon-shimmer) theme.
 
-## Hall of Fame
+## Attribution
+
+### Hall of Fame
 
 If you like the themes in this package, then you may appreciate the following themes too:
 
@@ -25,10 +27,8 @@ If you like the themes in this package, then you may appreciate the following th
 - [Julia Color Themes](https://github.com/CameronBieganek/julia-color-themes)
 - [Neon Shimmer](https://github.com/Pipe-Runner-Lab/neon-shimmer)
 
-## Attribution
-
 ### Project Icon
 
 The icon used for the package is taken from the following:
 
-<a href="https://www.flaticon.com/free-icons/cyberpunk" title="cyberpunk icons">Cyberpunk icons created by Paul J. - Flaticon</a>
+[Cyberpunk icons created by Paul J. - Flaticon](https://www.flaticon.com/free-icons/cyberpunk)

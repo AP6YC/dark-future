@@ -22,3 +22,11 @@ If you like the themes in this package, then you may appreciate the following th
 - [Cyberpunk2077](https://github.com/jwsandeman/cyberpunk2077-theme)
 - [Cyberpunk](https://github.com/prometheux-ar/cyberpunk)
 - [Julia Color Themes](https://github.com/CameronBieganek/julia-color-themes)
+
+## Attribution
+
+### Project Icon
+
+The icon used for the package is taken from the following:
+
+<a href="https://www.flaticon.com/free-icons/cyberpunk" title="cyberpunk icons">Cyberpunk icons created by Paul J. - Flaticon</a>

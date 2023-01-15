@@ -41,6 +41,11 @@
         "label": "Dark Future Scarlet",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-future-scarlet-color-theme.json"
+      },
+      {
+        "label": "Dark Future Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-neon-color-theme.json"
       }
     ]
   }

@@ -1,6 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Dark Future Cyberpunk",
+  "type": "dark",
   "author": "Sasha Petrenko",
   "maintainers": ["Sasha Petrenko <sap625@mst.edu>"],
   "semanticClass": "theme.darkfuturecyberpunk",
@@ -458,7 +459,7 @@
       "scope": ["entity.name.type.class", "entity.name.class"],
       "settings": {
         "foreground": "#E455AE",
-        "fontStyle": "normal"
+        // "fontStyle": "normal"
       }
     },
     {
@@ -706,7 +707,7 @@
         "variable.other.predefined"
       ],
       "settings": {
-        "fontStyle": "regular",
+        // "fontStyle": "regular",
         "foreground": "#37EBF3"
       }
     },
@@ -714,7 +715,7 @@
       "name": "Built-in functions / properties",
       "scope": ["support.function", "support.type.property-name"],
       "settings": {
-        "fontStyle": "regular"
+        // "fontStyle": "regular"
       }
     },
     {
@@ -845,7 +846,7 @@
         "source.groovy storage.type.def"
       ],
       "settings": {
-        "fontStyle": "regular",
+        // "fontStyle": "regular",
         "foreground": "#0E79B2"
       }
     },
@@ -1032,7 +1033,7 @@
         "meta.variable.assignment.destructured.object.coffee variable variable"
       ],
       "settings": {
-        "fontStyle": "normal",
+        // "fontStyle": "normal",
         "foreground": "#37EBF3"
       }
     },
@@ -1091,7 +1092,7 @@
       "name": "Powershell constants mistakenly scoped to `support`, rather than `constant` (edge)",
       "scope": ["support.constant"],
       "settings": {
-        "fontStyle": "normal",
+        // "fontStyle": "normal",
         "foreground": "#37EBF3"
       }
     },

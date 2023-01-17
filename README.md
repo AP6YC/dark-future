@@ -31,4 +31,5 @@ If you like the themes in this package, then you may appreciate the following th
 
 The icon used for the package is taken from the following:
 
-[Cyberpunk icons created by Paul J. - Flaticon](https://www.flaticon.com/free-icons/cyberpunk)
+- [Cyberpunk icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/cyberpunk)
+- [Cyberpunk icons created by Paul J. - Flaticon](https://www.flaticon.com/free-icons/cyberpunk)

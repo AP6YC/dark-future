@@ -9,6 +9,7 @@
 	// "$schema": "vscode://schemas/color-theme",
 	"author": "Sasha Petrenko",
     "maintainers": ["Sasha Petrenko <sap625@mst.edu>"],
+    "semanticHighlighting": true,
     "semanticClass": "theme.darkfuturejuliaclassic",
     "type": "dark",
     "colors": {

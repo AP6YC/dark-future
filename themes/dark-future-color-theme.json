@@ -4,9 +4,12 @@
 	// "$schema": "vscode://schemas/color-theme",
 	"author": "Sasha Petrenko",
     "maintainers": ["Sasha Petrenko <sap625@mst.edu>"],
+	"semanticHighlighting": true,
     "semanticClass": "theme.darkfuture",
 	"colors": {
-		"editor.background": "#263238",
+		// "editor.background": "#263238",
+		// "editor.background": "#272932",
+		"editor.background": "#16171D",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"

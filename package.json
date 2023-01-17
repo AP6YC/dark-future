@@ -18,6 +18,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Dark Future Dev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-dev-color-theme.json"
+      },
+      {
         "label": "Dark Future",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-future-color-theme.json"

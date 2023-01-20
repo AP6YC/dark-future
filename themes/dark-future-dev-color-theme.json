@@ -637,74 +637,83 @@
 			}
 		},
 
-		// // Julia-specific styles.
-        // {
-        //     "scope": "source.julia meta.bracket",
-        //     "settings": {
-        //         "foreground": "#FF8F3F"
-        //     }
-        // },
-        // {
-        //     "scope": [
-        //         "source.julia entity.name.function",
-        //         "source.julia keyword.operator.boolean"
-        //     ],
-        //     "settings": {
-        //         "foreground": "#AE81FF"
-        //     }
-        // },
-        // {
-        //     "scope": "source.julia keyword.operator",
-        //     "settings": {
-        //         "foreground": "#FF3F4F",
-        //         "fontStyle": ""
-        //     }
-        // },
-        // {
-        //     "scope": [
-        //         "source.julia keyword.operator.isa",
-        //         "source.julia keyword.operator.relation.in" // This scope does not exist yet.
-        //     ],
-        //     "settings": {
-        //         "foreground": "#FF3F4F",
-        //         "fontStyle": "italic"
-        //     }
-        // },
-        // {
-        //     "scope": "source.julia variable.interpolation",
-        //     "settings": {
-        //         "foreground": "#F8F8F0FF"
-        //     }
-        // },
-        // {
-        //     // Each of the constant.X scopes is needed in order to override
-        //     // the default themes for those scopes.
-        //     "scope": [
-        //         "source.julia constant.language",
-        //         "source.julia constant.other",
-        //         "source.julia constant.numeric",
-        //         "source.julia constant.character",
-        //         "source.julia support.function.macro",
-        //         "source.julia support.type"
-        //     ],
-        //     "settings": {
-        //         "foreground": "#00AAFF"
-        //     }
-        // },
-        // {
-        //     "scope": "source.julia constant.other.symbol",
-        //     "settings": {
-        //         "foreground": "#FD5FF0"
-        //     }
-        // },
-        // {
-        //     "scope": [
-        //         "source.julia keyword.control.using",
-        //         "source.julia keyword.control.import"
-        //     ],
-        //     "settings": {
-        //         "foreground": "#81F900"
-        //     }
-        // }
+		// Julia-specific styles.
+        {
+            "scope": "source.julia meta.bracket",
+            "settings": {
+                "foreground": "#FF8F3F"
+            }
+        },
+        {
+            "scope": [
+                "source.julia entity.name.function",
+                "source.julia keyword.operator.boolean"
+            ],
+            "settings": {
+                "foreground": "#AE81FF"
+            }
+        },
+        {
+            "scope": "source.julia keyword.operator",
+            "settings": {
+                "foreground": "#FF3F4F",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": [
+                "source.julia keyword.operator.isa",
+                "source.julia keyword.operator.relation.in" // This scope does not exist yet.
+            ],
+            "settings": {
+                "foreground": "#FF3F4F",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "source.julia variable.interpolation",
+            "settings": {
+                "foreground": "#F8F8F0FF"
+            }
+        },
+        {
+            // Each of the constant.X scopes is needed in order to override
+            // the default themes for those scopes.
+            "scope": [
+                "source.julia constant.language",
+                "source.julia constant.other",
+                "source.julia constant.numeric",
+                "source.julia constant.character",
+                "source.julia support.function.macro",
+                "source.julia support.type"
+            ],
+            "settings": {
+                "foreground": "#00AAFF"
+            }
+        },
+        {
+            "scope": "source.julia constant.other.symbol",
+            "settings": {
+                "foreground": "#FD5FF0"
+            }
+        },
+        {
+            "scope": [
+                "source.julia keyword.control.using",
+                "source.julia keyword.control.import"
+            ],
+            "settings": {
+                "foreground": "#81F900"
+            }
+        },
+		{
+            "name": "Julia array index",
+            "scope": [
+                "source.julia meta.array.julia"
+            ],
+            "settings": {
+                "foreground": "#25E1ED"
+            }
+        },
 	]
 }

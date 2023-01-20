@@ -11,6 +11,7 @@ Special attention is given to these themes' ability to highlight Julia and Pytho
 
 - **Dark Future**: the default dark theme for the package.
 - **Dark Future Cyberpunk**: a modification of the great [Cyberpunk2077](https://github.com/jwsandeman/cyberpunk2077-theme) theme.
+- **Dark Future Cyberpunk 2077**: a modification of the great [Cyberpunk 2077 Rebuild](https://github.com/carlos18mz/Cyberpunk-2077-rebuild) theme.
 - **Dark Future Julia Classic**: a modification of the Monokai Classic variant of the [Julia Color Themes](https://github.com/CameronBieganek/julia-color-themes) package.
 - **Dark Future Julia Vibrant**: a modification of the Monokai Vibrant variant of the [Julia Color Themes](https://github.com/CameronBieganek/julia-color-themes) package.
 - **Dark Future Scarlet**: a modification of the beta SCARLET protocol of the great [Cyberpunk](https://github.com/prometheux-ar/cyberpunk) theme package.
@@ -29,6 +30,7 @@ HEX: #fdf901
 If you like the themes in this package, then you may appreciate the following themes too:
 
 - [Cyberpunk2077](https://github.com/jwsandeman/cyberpunk2077-theme)
+- [Cyberpunk 2077 Rebuild](https://github.com/carlos18mz/Cyberpunk-2077-rebuild)
 - [Cyberpunk](https://github.com/prometheux-ar/cyberpunk)
 - [Julia Color Themes](https://github.com/CameronBieganek/julia-color-themes)
 - [Neon Shimmer](https://github.com/Pipe-Runner-Lab/neon-shimmer)

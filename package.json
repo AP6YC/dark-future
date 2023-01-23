@@ -56,6 +56,11 @@
         "label": "Dark Future Neon",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-future-neon-color-theme.json"
+      },
+      {
+        "label": "Dark Future Outrun",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-outrun-color-theme.json"
       }
     ]
   }

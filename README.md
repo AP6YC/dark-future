@@ -16,6 +16,7 @@ Special attention is given to these themes' ability to highlight Julia and Pytho
 - **Dark Future Julia Vibrant**: a modification of the Monokai Vibrant variant of the [Julia Color Themes](https://github.com/CameronBieganek/julia-color-themes) package.
 - **Dark Future Scarlet**: a modification of the beta SCARLET protocol of the great [Cyberpunk](https://github.com/prometheux-ar/cyberpunk) theme package.
 - **Dark Future Neon**: a modification of the [Neon Shimmer](https://github.com/Pipe-Runner-Lab/neon-shimmer) theme.
+- **Dark Future Outrun**: a modification of the [2077 Color Theme](https://github.com/endormi/vscode-2077-theme).
 
 ## Color Palettes
 
@@ -47,6 +48,7 @@ If you like the themes in this package, then you may appreciate the following th
 - [Cyberpunk](https://github.com/prometheux-ar/cyberpunk)
 - [Julia Color Themes](https://github.com/CameronBieganek/julia-color-themes)
 - [Neon Shimmer](https://github.com/Pipe-Runner-Lab/neon-shimmer)
+- [2077 Theme](https://github.com/endormi/vscode-2077-theme)
 
 ### Project Icon
 

@@ -701,6 +701,15 @@
             "settings": {
                 "foreground": "#81F900"
             }
-        }
+        },
+		{
+            "name": "Julia array index",
+            "scope": [
+                "source.julia meta.array.julia"
+            ],
+            "settings": {
+                "foreground": "#25E1ED"
+            }
+        },
 	]
 }

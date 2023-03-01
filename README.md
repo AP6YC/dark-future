@@ -1,6 +1,6 @@
 # dark-future
 
-A collection of mainly dark VSCode themes that are inspired by the Dark Future of Cyberpunk fiction.
+A collection of dark VSCode themes that are inspired by the Dark Future of Cyberpunk fiction.
 
 ## About
 
@@ -22,7 +22,7 @@ Special attention is given to these themes' ability to highlight Julia and Pytho
 
 ### Hall of Fame
 
-If you like the themes in this package, then you may appreciate the following themes too:
+If you like the themes in this package, then you will certainly appreciate the following themes too:
 
 - [Cyberpunk2077](https://github.com/jwsandeman/cyberpunk2077-theme)
 - [Cyberpunk 2077 Rebuild](https://github.com/carlos18mz/Cyberpunk-2077-rebuild)

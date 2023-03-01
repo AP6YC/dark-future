@@ -18,25 +18,6 @@ Special attention is given to these themes' ability to highlight Julia and Pytho
 - **Dark Future Neon**: a modification of the [Neon Shimmer](https://github.com/Pipe-Runner-Lab/neon-shimmer) theme.
 - **Dark Future Outrun**: a modification of the [2077 Color Theme](https://github.com/endormi/vscode-2077-theme).
 
-## Color Palettes
-
-From Reddit:
-
-Delayed Yellow:
-R: 253 G: 249 B: 1
-HEX: #fdf901
-
-From [XDA dev forums](https://forum.xda-developers.com/t/color-codes-for-the-cyberpunk-2077-1.4226747/):
-
-COLOR HEX CODES:
-Yellow #FFEB0B or #EBE702
-Cyan #25E1ED or #00FFFF
-Pink/Magenta #ED1E79
-
-Updated with new hex codes:
-Dark Red Magenta # 672026
-Bright Red Magenta # FF4A57
-
 ## Attribution
 
 ### Hall of Fame

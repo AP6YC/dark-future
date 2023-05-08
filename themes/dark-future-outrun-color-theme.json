@@ -87,7 +87,7 @@
 		// Panel Colors
 		"panel.background": "#0e0952",
 		"panel.border": "#181657",
-		"panel.dropBackground": "#ff2592",
+		// "panel.dropBackground": "#ff2592",
 		"panelTitle.activeBorder": "#ff2592",
 		"panelTitle.activeForeground": "#ff2592",
 		"panelTitle.inactiveForeground": "#d600dd",

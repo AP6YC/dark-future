@@ -20,9 +20,11 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		// "sideBarTitle.foreground": "#dddddd",
 		// Not sure about these
-		"editorIndentGuide.background": "#007acc64",
+		// "editorIndentGuide.background": "#007acc64",
+		"editorIndentGuide.background": "#3B4048",
+        "editorIndentGuide.activeBackground": "#007acc64",
 		"editorRuler.foreground": "#007acc",
-		"sideBar.background": "#12161a"
+		"sideBar.background": "#12161a",
 	},
 	"tokenColors": [
 		{

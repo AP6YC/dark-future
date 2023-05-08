@@ -12,7 +12,11 @@
 		"editor.background": "#16171D",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editorIndentGuide.background": "#3B4048",
+        "editorIndentGuide.activeBackground": "#007acc64",
+		"editorRuler.foreground": "#007acc",
+		"sideBar.background": "#12161a",
 	},
 	"tokenColors": [
 		{

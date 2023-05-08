@@ -1,13 +1,16 @@
-# dark-future
+# Dark Future
 
 ![dark-future-flaticon-logo](assets/images/icon.png)
 
 A collection of dark VSCode themes that are inspired by the Dark Future of Cyberpunk fiction.
 
+[1]: https://julialang.org/
+[2]: https://www.python.org/
+
 ## About
 
 This package is a collection of original color themes along with modifications of great existing themes contributed by others.
-Special attention is given to these themes' ability to highlight Julia and Python code since I personally work in these languages extensively.
+Special attention is given to these themes' ability to highlight [`Julia`][1] and [`Python`][2] code since I personally work in these languages extensively.
 
 ## Themes
 

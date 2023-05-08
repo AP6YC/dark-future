@@ -14,9 +14,15 @@
 		// "editor.background": "#263238",
 		// "editor.background": "#272932",
 		"editor.background": "#16171D",
+		// "editor.background": "#15161a",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		// "sideBarTitle.foreground": "#dddddd",
+		// Not sure about these
+		"editorIndentGuide.background": "#007acc64",
+		"editorRuler.foreground": "#007acc",
+		"sideBar.background": "#12161a"
 	},
 	"tokenColors": [
 		{

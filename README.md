@@ -1,5 +1,7 @@
 # dark-future
 
+![dark-future-flaticon-logo](assets/images/icon.png)
+
 A collection of dark VSCode themes that are inspired by the Dark Future of Cyberpunk fiction.
 
 ## About
@@ -35,5 +37,5 @@ If you like the themes in this package, then you will certainly appreciate the f
 
 The icon used for the package is taken from the following:
 
-- [Cyberpunk icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/cyberpunk)
-- [Cyberpunk icons created by Paul J. - Flaticon](https://www.flaticon.com/free-icons/cyberpunk)
+- [Cyberpunk icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/cyberpunk) ([free-icon/city_4127852](https://www.flaticon.com/free-icon/city_4127852))
+- [Cyberpunk icons created by Paul J. - Flaticon](https://www.flaticon.com/free-icons/cyberpunk) ([free-icon/robot-hand_9148482](https://www.flaticon.com/free-icon/robot-hand_9148482))

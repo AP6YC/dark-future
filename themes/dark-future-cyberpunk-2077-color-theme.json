@@ -2,6 +2,7 @@
 	"name": "Dark Future Cyberpunk 2077",
 	"type": "dark",
 	"author": "Sasha Petrenko",
+	"semanticClass": "theme.darkfuturecyberpunk2077",
 	"maintainers": [
 		"Sasha Petrenko <sap625@mst.edu>"
 	],

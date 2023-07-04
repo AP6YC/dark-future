@@ -61,6 +61,11 @@
         "label": "Dark Future Outrun",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-future-outrun-color-theme.json"
+      },
+      {
+        "label": "Dark Future City Lights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-city-lights-theme.json"
       }
     ]
   }

@@ -1,10 +1,12 @@
 {
     "name": "Dark Future Julia Vibrant",
-	// "$schema": "vscode://schemas/color-theme",
-	"author": "Sasha Petrenko",
-    "maintainers": ["Sasha Petrenko <sap625@mst.edu>"],
-    "semanticClass": "theme.darkfuturejuliavibrant",
+    // "$schema": "vscode://schemas/color-theme",
     "type": "dark",
+    "author": "Sasha Petrenko",
+    "maintainers": [
+        "Sasha Petrenko <sap625@mst.edu>"
+    ],
+    "semanticClass": "theme.darkfuturejuliavibrant",
     "colors": {
         "activityBar.background": "#16171D",
         "activityBar.foreground": "#D7DAE0",
@@ -567,7 +569,6 @@
                 "foreground": "#ffffff"
             }
         },
-
         // Julia-specific styles.
         {
             "scope": "source.julia meta.bracket",
@@ -637,7 +638,6 @@
                 "foreground": "#81F900"
             }
         },
-
         {
             "name": "Julia array index",
             "scope": [
@@ -647,8 +647,6 @@
                 "foreground": "#25E1ED"
             }
         },
-
-
         // Python-specific styles.
         {
             "scope": [

@@ -53,6 +53,12 @@ The icon used for the package is taken from the following:
 - [Cyberpunk icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/cyberpunk) ([free-icon/city_4127852](https://www.flaticon.com/free-icon/city_4127852))
 - [Cyberpunk icons created by Paul J. - Flaticon](https://www.flaticon.com/free-icons/cyberpunk) ([free-icon/robot-hand_9148482](https://www.flaticon.com/free-icon/robot-hand_9148482))
 
+### Fonts
+
+The header for the project uses the following font:
+
+- [Dash Horizon by Wecreatype](https://www.fontspace.com/dash-horizon-font-f53768)
+
 ### Author
 
 - Sasha Petrenko <petrenkos@mst.edu>

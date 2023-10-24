@@ -203,8 +203,13 @@
 		"editor.rangeHighlightBorder": "#00d4b1", //?
 		"editor.symbolHighlightBackground": "#4200ad3d", //?
 		"editorWhitespace.foreground": "#00d4b1",
-		"editorIndentGuide.background": "#0043d473",
-		"editorIndentGuide.activeBackground": "#00d4b1",
+
+		// background -> background1 deprecation
+		// "editorIndentGuide.background": "#0043d473",
+		// "editorIndentGuide.activeBackground": "#00d4b1",
+		"editorIndentGuide.background1": "#0043d473",
+		"editorIndentGuide.activeBackground1": "#00d4b1",
+
 		"editorRuler.foreground": "#4200ad3d", //?
 		// "editor.onTypeRenameBackground": "#4200ad3d",
 		"editorCodeLens.foreground": "#00d4b1",

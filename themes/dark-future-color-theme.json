@@ -13,8 +13,13 @@
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"editorIndentGuide.background": "#3B4048",
-        "editorIndentGuide.activeBackground": "#007acc64",
+
+		// background -> background1 deprecation
+		// "editorIndentGuide.background": "#3B4048",
+        // "editorIndentGuide.activeBackground": "#007acc64",
+		"editorIndentGuide.background1": "#3B4048",
+        "editorIndentGuide.activeBackground1": "#007acc64",
+
 		"editorRuler.foreground": "#007acc",
 		"sideBar.background": "#12161a",
 	},

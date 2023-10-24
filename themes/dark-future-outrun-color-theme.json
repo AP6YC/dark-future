@@ -30,8 +30,13 @@
 		"editor.wordHighlightStrongBackground": "#440083d5",
 		"editor.lineHighlightBackground": "#1c1347",
 		"editorRuler.foreground": "#11215e",
-		"editorIndentGuide.background": "#030d22",
-		"editorIndentGuide.activeBackground": "#103483",
+
+		// background -> background1 deprecation
+		// "editorIndentGuide.background": "#030d22",
+		// "editorIndentGuide.activeBackground": "#103483",
+		"editorIndentGuide.background1": "#030d22",
+		"editorIndentGuide.activeBackground1": "#103483",
+
 		"editorError.foreground": "#ac077a",
 		"editorWarning.foreground": "#fad46d",
 		"editorInfo.foreground": "#af21e7",

@@ -16,7 +16,8 @@
         "breadcrumbPicker.background": "#28323a",
         "activityBar.background": "#1D252C",
         "activityBar.border": "#333F4A",
-        "activityBar.dropBackground": "#333F4A",
+        // Not allowed
+        // "activityBar.dropBackground": "#333F4A",
         "activityBar.foreground": "#fff",
         "activityBarBadge.background": "#b7c5d3",
         "activityBarBadge.foreground": "#181e24",
@@ -69,7 +70,11 @@
         "editorGroupHeader.tabsBorder": "#333F4A",
         "editorHoverWidget.background": "#15232d",
         "editorHoverWidget.border": "#333F4A",
-        "editorIndentGuide.background": "#28323a",
+
+        // background -> background1 deprecation
+        // "editorIndentGuide.background": "#28323a",
+        "editorIndentGuide.background1": "#28323a",
+
         "editorLineNumber.foreground": "#41505E",
         "editorLink.activeForeground": "#b7c5d3",
         "editorMarkerNavigation.background": "#1D252C",
@@ -207,8 +212,9 @@
         "titleBar.inactiveBackground": "#1D252C",
         "titleBar.inactiveForeground": "#ffffff33",
         "walkThrough.embeddedEditorBackground": "#1D252C",
-        "welcomePage.buttonBackground": "#1D252C",
-        "welcomePage.buttonHoverBackground": "#333F4A",
+        // Not allowed
+        // "welcomePage.buttonBackground": "#1D252C",
+        // "welcomePage.buttonHoverBackground": "#333F4A",
         "widget.shadow": "#00000026"
     },
     "tokenColors": [

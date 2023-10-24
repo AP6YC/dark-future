@@ -28,9 +28,14 @@
         "editorGroup.emptyBackground": "#181A1F",
         "editorGroup.border": "#181A1F",
         "editorGroupHeader.tabsBackground": "#21252B",
+
         // Old indent guide color: "#3B4048"
-        "editorIndentGuide.background": "#3B4048",
-        "editorIndentGuide.activeBackground": "#007acc64",
+        // background -> background1 deprecation
+        // "editorIndentGuide.background": "#3B4048",
+        // "editorIndentGuide.activeBackground": "#007acc64",
+        "editorIndentGuide.background1": "#3B4048",
+        "editorIndentGuide.activeBackground1": "#007acc64",
+
         "editorLineNumber.foreground": "#495162",
         "editorWhitespace.foreground": "#484a50",
         "editorHoverWidget.background": "#21252B",

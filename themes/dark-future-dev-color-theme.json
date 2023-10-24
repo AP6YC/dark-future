@@ -19,10 +19,16 @@
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
 		// "sideBarTitle.foreground": "#dddddd",
+
+
+		// background -> background1 deprecation
 		// Not sure about these
 		// "editorIndentGuide.background": "#007acc64",
-		"editorIndentGuide.background": "#3B4048",
-        "editorIndentGuide.activeBackground": "#007acc64",
+		// "editorIndentGuide.background": "#3B4048",
+        // "editorIndentGuide.activeBackground": "#007acc64",
+		"editorIndentGuide.background1": "#3B4048",
+        "editorIndentGuide.activeBackground1": "#007acc64",
+
 		"editorRuler.foreground": "#007acc",
 		"sideBar.background": "#12161a",
 	},

@@ -85,8 +85,13 @@
 		"editorGroup.border": "#ff00552a",
 		"editorGroupHeader.tabsBackground": "#101116",
         "editorGroupHeader.noTabsBackground": "#101116",
-        "editorIndentGuide.activeBackground": "#00ffc8",
-		"editorIndentGuide.background": "#ff00552a",
+
+		// background -> background1 deprecation
+        // "editorIndentGuide.activeBackground": "#00ffc8",
+		// "editorIndentGuide.background": "#ff00552a",
+		"editorIndentGuide.activeBackground1": "#00ffc8",
+		"editorIndentGuide.background1": "#ff00552a",
+
 		"editorLineNumber.foreground": "#ff00557e",
         "editorLineNumber.activeForeground": "#00ffc8",
         "editorWhitespace.foreground": "#2B3E5A",

@@ -4,11 +4,12 @@ A collection of dark VSCode themes that are inspired by the Dark Future of Cyber
 
 [link-julia]: https://julialang.org/
 [link-python]: https://www.python.org/
+[github-personal]: https://github.com/AP6YC
 
 ## About
 
 This package is a collection of original color themes along with modifications of great existing themes contributed by others.
-Special attention is given to these themes' ability to highlight [`Julia`][link-julia] and [`Python`][link-python] code since I personally work in these languages extensively.
+Special attention is given to these themes' ability to highlight [`Julia`][link-julia] and [`Python`][link-python] code since [I personally][github-personal] work in these languages extensively.
 
 ## Themes
 
@@ -59,4 +60,4 @@ The header for the project uses the following font:
 
 ### Author
 
-- Sasha Petrenko <petrenkos@mst.edu>
+- Sasha Petrenko <petrenkos@mst.edu> [@AP6YC][github-personal]

@@ -1,6 +1,4 @@
-# Dark Future
-
-![dark-future-flaticon-logo](assets/images/icon.png)
+![dark-future-header](https://github.com/AP6YC/FileStorage/blob/main/dark-future/header.png?raw=true)
 
 A collection of dark VSCode themes that are inspired by the Dark Future of Cyberpunk fiction.
 

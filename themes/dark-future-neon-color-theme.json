@@ -374,7 +374,9 @@
             "name": "punctuation.definition",
             "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
             "settings": {
-                "foreground": "#ffffff"
+                // "foreground": "#FFD945"
+                // "foreground": "#00c979"
+                "foreground": "#00ff85"
             }
         },
         {
@@ -1001,7 +1003,11 @@
             "name": "Strings",
             "scope": "string",
             "settings": {
-                "foreground": "#ffffff"
+                // "foreground": "#FFD945"
+                // "foreground": "#ff845e"
+                // "foreground": "#00c9b5"
+                // "foreground": "#00c979"
+                "foreground": "#00ff85"
             }
         },
         {
@@ -2145,7 +2151,9 @@
         {
             "scope": "source.julia variable.interpolation",
             "settings": {
-                "foreground": "#F8F8F0FF"
+                // "foreground": "#F8F8F0FF"
+                // "foreground": "#ffff31" FFC15E ff9f1c
+                "foreground": "#2ab1eb"
             }
         },
         {

@@ -9,6 +9,7 @@ This document contains some drafting text and references for color palettes used
 From Reddit:
 
 Delayed Yellow:
+
 - R: 253 G: 249 B: 1
 - HEX: #fdf901
 

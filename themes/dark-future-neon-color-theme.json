@@ -223,12 +223,12 @@
         "editorMarkerNavigationError.background": "#e64471",
         "editorMarkerNavigationWarning.background": "#f5a349",
         "editorMarkerNavigationInfo.background": "#04d9c4",
-        "merge.currentHeaderBackground": "#367366",
-        "merge.currentContentBackground": "#27403B",
-        "merge.incomingHeaderBackground": "#395F8F",
-        "merge.incomingContentBackground": "#28384B",
-        "merge.commonHeaderBackground": "#383838",
-        "merge.commonContentBackground": "#282828",
+        "merge.currentHeaderBackground": "#367366c7",
+        "merge.currentContentBackground": "#27403bd8",
+        "merge.incomingHeaderBackground": "#39608fc7",
+        "merge.incomingContentBackground": "#28384bd9",
+        "merge.commonHeaderBackground": "#383838d5",
+        "merge.commonContentBackground": "#282828d2",
         "editorSuggestWidget.background": "#1b0008",
         "editorSuggestWidget.border": "#e6447187",
         "editorSuggestWidget.foreground": "#f2efef",
@@ -262,7 +262,7 @@
         "minimapGutter.modifiedBackground": "#1ac1f0",
         "minimapGutter.deletedBackground": "#fd4048",
         "minimap.findMatchHighlight": "#f2229448",
-        "minimap.selectionHighlight": "#381e01",
+        "minimap.selectionHighlight": "#381e01e0",
         "minimap.errorHighlight": "#ff1c5b",
         "minimap.warningHighlight": "#ffd11b",
         "minimap.background": "#000000",
@@ -2106,6 +2106,184 @@
             "scope": "markup.italic.markdown",
             "settings": {
                 "fontStyle": "italic"
+            }
+        },
+
+        // Julia-specific styles.
+        {
+            "scope": "source.julia meta.bracket",
+            "settings": {
+                "foreground": "#FF8F3F"
+            }
+        },
+        {
+            "scope": [
+                "source.julia entity.name.function",
+                "source.julia keyword.operator.boolean"
+            ],
+            "settings": {
+                "foreground": "#AE81FF"
+            }
+        },
+        {
+            "scope": "source.julia keyword.operator",
+            "settings": {
+                "foreground": "#FF3F4F",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": [
+                "source.julia keyword.operator.isa",
+                "source.julia keyword.operator.relation.in" // This scope does not exist yet.
+            ],
+            "settings": {
+                "foreground": "#FF3F4F",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "source.julia variable.interpolation",
+            "settings": {
+                "foreground": "#F8F8F0FF"
+            }
+        },
+        {
+            // Each of the constant.X scopes is needed in order to override
+            // the default themes for those scopes.
+            "scope": [
+                "source.julia constant.language",
+                "source.julia constant.other",
+                "source.julia constant.numeric",
+                "source.julia constant.character",
+                "source.julia support.function.macro",
+                "source.julia support.type"
+            ],
+            "settings": {
+                "foreground": "#00AAFF"
+            }
+        },
+        {
+            "scope": "source.julia constant.other.symbol",
+            "settings": {
+                "foreground": "#FD5FF0"
+            }
+        },
+        {
+            "scope": [
+                "source.julia keyword.control.using",
+                "source.julia keyword.control.import"
+            ],
+            "settings": {
+                "foreground": "#81F900"
+            }
+        },
+        {
+            "name": "Julia array index",
+            "scope": [
+                "source.julia meta.array.julia"
+            ],
+            "settings": {
+                "foreground": "#25E1ED"
+            }
+        },
+        // Python-specific styles.
+        {
+            "scope": [
+                "source.python storage.type",
+                "source.python constant.language",
+                "source.python constant.numeric",
+                "source.python constant.character"
+            ],
+            "settings": {
+                "foreground": "#00AAFF"
+            }
+        },
+        {
+            "scope": [
+                "source.python entity.name.function",
+                "source.python meta.function support.function"
+            ],
+            "settings": {
+                "foreground": "#AE81FF"
+            }
+        },
+        {
+            "scope": "source.python entity.name.type",
+            "settings": {
+                "foreground": "#AE81FF",
+                "fontStyle": "underline"
+            }
+        },
+        {
+            "scope": [
+                "source.python meta.function-call.generic",
+                "source.python meta.function-call support.type",
+                "source.python keyword.control.import"
+            ],
+            "settings": {
+                "foreground": "#81F900"
+            }
+        },
+        {
+            "scope": "source.python punctuation",
+            "settings": {
+                "foreground": "#5C6370"
+            }
+        },
+        {
+            "scope": [
+                "source.python punctuation.separator.period",
+                "source.python punctuation.section",
+                "source.python punctuation.separator.colon",
+                "source.python punctuation.separator.dict",
+                "source.python punctuation.definition.decorator",
+                "source.python meta.function.decorator support.type",
+                "source.python meta.function.decorator entity.name.function"
+            ],
+            "settings": {
+                "foreground": "#FF3F4F"
+            }
+        },
+        {
+            "scope": [
+                "source.python punctuation.definition.string",
+                "source.python support.type",
+                "source.python meta.function-call meta.function-call.arguments support.type"
+            ],
+            "settings": {
+                "foreground": "#FFD945"
+            }
+        },
+        {
+            "scope": "source.python keyword.operator.arithmetic",
+            "settings": {
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": [
+                "source.python variable.parameter.function.language.special.self",
+                "source.python variable.language",
+                "source.python constant.other.caps"
+            ],
+            "settings": {
+                "foreground": "#FF00FF"
+            }
+        },
+        {
+            "scope": [
+                "source.python variable.parameter",
+                "source.python variable.parameter.function-call"
+            ],
+            "settings": {
+                "foreground": "#FF8F3F"
+            }
+        },
+        {
+            "scope": "source.python support.variable",
+            "settings": {
+                "foreground": "#F8F8F0"
             }
         }
     ],

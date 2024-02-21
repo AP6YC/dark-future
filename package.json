@@ -1,7 +1,7 @@
 {
   "name": "dark-future",
   "displayName": "Dark Future",
-  "description": "A collection of VSCode themes inspired by the Dark Future of Cyberpunk fiction.",
+  "description": "A collection of dark VSCode themes inspired by the Dark Future of Cyberpunk fiction.",
   "version": "0.0.17",
   "publisher": "SashaPetrenko",
   "engines": {

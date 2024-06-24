@@ -20,6 +20,18 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		// "sideBarTitle.foreground": "#dddddd",
 
+		// "merge.currentHeaderBackground": "#ff0000",
+		// "merge.incomingHeaderBackground": "#ff0000",
+		// "merge.commonContentBackground": "#ff0000",
+		// "merge.incomingContentBackground": "#ff0000",
+
+		// For macOS and Linux
+		// "window.activeBorder": "#ff0000",
+		// "window.inactiveBorder": "#ff0000",
+
+		// Foreground if one is not defined for an area
+		"foreground": "#eeffff",
+
 
 		// background -> background1 deprecation
 		// Not sure about these

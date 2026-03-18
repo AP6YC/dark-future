@@ -66,6 +66,11 @@
         "label": "Dark Future City Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-future-city-lights-theme.json"
+      },
+      {
+        "label": "Dark Future Marathon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-future-marathon.json"
       }
     ]
   }

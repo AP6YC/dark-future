@@ -2,6 +2,18 @@
 
 A collection of dark VSCode themes that are inspired by the Dark Future of Cyberpunk fiction.
 
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [About](#about)
+- [Themes](#themes)
+- [Attribution](#attribution)
+  - [Hall of Fame](#hall-of-fame)
+  - [Project Icon](#project-icon)
+  - [Fonts](#fonts)
+  - [Author](#author)
+  - [Notes-to-Self](#notes-to-self)
+
+
 [link-julia]: https://julialang.org/
 [link-python]: https://www.python.org/
 [github-personal]: https://github.com/AP6YC
@@ -64,3 +76,11 @@ The header for the project uses the following font:
 ### Author
 
 - Sasha Petrenko <petrenkos@mst.edu> [@AP6YC][github-personal]
+
+### Notes-to-Self
+
+By the way, this is how one would patch a custom VSCode extension if one were to, say, forget how to do that:
+
+```shell
+vsce publish patch
+```

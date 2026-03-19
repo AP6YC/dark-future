@@ -20,6 +20,7 @@ Special attention is given to these themes' ability to highlight [`Julia`][link-
 [link-neon]: https://github.com/Pipe-Runner-Lab/neon-shimmer
 [link-2077]: https://github.com/endormi/vscode-2077-theme
 [link-city-lights]: https://github.com/Yummygum/city-lights-syntax-vsc
+[link-marathon]: https://github.com/King-Kyle/marathon-dark
 
 - **Dark Future**: the default dark theme for the package.
 - **Dark Future Cyberpunk**: a modification of the great [Cyberpunk2077][link-cyberpunk2077] theme.
@@ -30,6 +31,7 @@ Special attention is given to these themes' ability to highlight [`Julia`][link-
 - **Dark Future Neon**: a modification of the [Neon Shimmer][link-neon] theme.
 - **Dark Future Outrun**: a modification of the [2077 Color Theme][link-2077].
 - **Dark Future City Lights**: a modification of Yummygum's [City Lights Theme][link-city-lights].
+- **Dark Future Marathon**: a modification of King-Kyle's [Marathon-Dark][link-marathon] theme.
 
 ## Attribution
 
@@ -44,6 +46,7 @@ If you like the themes in this package, then you will certainly appreciate the f
 - [Neon Shimmer][link-neon]
 - [2077 Theme][link-2077]
 - [City Lights Theme][link-city-lights]
+- [Marathon-Dark][link-marathon]
 
 ### Project Icon
 

@@ -28,5 +28,16 @@ Updated with new hex codes:
 
 ### Marathon Colors
 
-- rgb(192, 254, 6)
-- Hex: #c0fe06
+- Primary highlight: #c0fe06
+- Bright highlight: #d5ff55
+- Aqua info: #1fd6e5
+- Bright aqua: #9af7f8
+- Teal success: #00c48c
+- Bright teal: #38deab
+- Amber warning: #ff8a2b
+- Warm parameter/string: #ffb15c / #ffc68c
+- Magenta function: #ff57c3
+- Bright magenta: #ff92db
+- Soft red error: #ff6678
+- Bright red: #ff96a4
+- Lavender support: #95a6ff

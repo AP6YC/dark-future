@@ -25,3 +25,8 @@ Updated with new hex codes:
 
 - Dark Red Magenta # 672026
 - Bright Red Magenta # FF4A57
+
+### Marathon Colors
+
+- rgb(192, 254, 6)
+- Hex: #c0fe06
